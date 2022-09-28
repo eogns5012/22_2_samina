@@ -1,3 +1,0 @@
-[submodule "CIFAR-10-images"]
-	path = CIFAR-10-images
-	url = https://github.com/YoongiKim/CIFAR-10-images.git
